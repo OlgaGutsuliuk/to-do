@@ -1,2 +1,2 @@
-# This project was born today
+This project was born today
 To-do list aplication
